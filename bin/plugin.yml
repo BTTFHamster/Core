@@ -1,0 +1,16 @@
+name: Core
+author: BTTFHamsterZK
+version: 1.0
+main: me.BTTFHamsterZK.Core.Core
+description: null()
+commands:
+  help:
+    usage: /help
+  plugins:
+    usage: /plugins
+  whatdoido:
+    usage: /whatdoido
+  info:
+    usage: /info
+  owners:
+    usage: /owners
